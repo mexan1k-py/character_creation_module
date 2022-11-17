@@ -41,7 +41,7 @@ def special(char_name: str, char_class: str) -> str:
 
 
 def start_training(char_name: str, char_class: str) -> str:
-    """Выводит информацию о достоинствах выброного персонажа.
+    """Выводит информацию о достоинствах выбраного персонажа и
 
     команды для управления персонажем
     """
