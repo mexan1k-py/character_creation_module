@@ -43,7 +43,7 @@ def special(char_name: str, char_class: str) -> str:
 def start_training(char_name: str, char_class: str) -> str:
     """Выводит информацию о достоинствах выброного персонажа.
 
-    команды для управления персонажем и
+    команды для управления персонажем
     """
     if char_class == 'warrior':
         print(f'{char_name}, ты Воитель — отличный боец ближнего боя.')
